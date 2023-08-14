@@ -199,7 +199,7 @@ provides a very simple and clean way to write tests.
 ***
 
 ### Installing `pytest`
-
+cd 
 Each lesson in the Python curriculum will contain a file called `Pipfile`. This
 file contains all of the required Python libraries for your work, and restricts
 them to the repository that you're working in.
@@ -232,7 +232,7 @@ to start working:
 $ pipenv shell
 Launching subshell in virtual environment...
  . /Users/.../venv/bin/activate
-$  . /Users/.../.venv/bin/activate
+$  . /Users`/.../.venv/bin/activate
 (python-p3-running-python-code) $
 ```
 
@@ -355,4 +355,3 @@ progress through this phase!
 - [Python print() function](https://www.w3schools.com/python/ref_func_print.asp)
 - [Python Getting Started](https://www.w3schools.com/python/python_getstarted.asp)
 - [pipenv Documentation](https://pipenv.pypa.io/en/latest/)
-- [pytest Documentation](https://docs.pytest.org/en/7.1.x/)
